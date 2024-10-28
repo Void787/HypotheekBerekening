@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HypotheekBerekening", "HypotheekBerekening\HypotheekBerekening.csproj", "{2358E694-E5F7-4E7B-857C-03F82B7E0572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyphoteekApp", "HyphoteekApp\HyphoteekApp.csproj", "{616C8BBD-D180-43A3-963B-5BBC432B3F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2358E694-E5F7-4E7B-857C-03F82B7E0572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2358E694-E5F7-4E7B-857C-03F82B7E0572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2358E694-E5F7-4E7B-857C-03F82B7E0572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2358E694-E5F7-4E7B-857C-03F82B7E0572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{616C8BBD-D180-43A3-963B-5BBC432B3F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616C8BBD-D180-43A3-963B-5BBC432B3F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616C8BBD-D180-43A3-963B-5BBC432B3F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616C8BBD-D180-43A3-963B-5BBC432B3F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E2E1276-4136-458A-A48E-D11EE2147906}
+	EndGlobalSection
+EndGlobal
